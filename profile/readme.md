@@ -20,7 +20,7 @@ Our main public-facing application is the open source [Oak Web Application](http
 
 ## Our approach to our technical architecture
 
-We take a serverless-first approach to hosting, with the majority of our applications and services running on dedicated PaaS and IaaS provider platforms. 
+We take a serverless-first approach to hosting, with the majority of our applications and services running on dedicated Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service (IaaS) provider platforms. 
 
 Our web applications are built and hosted on [Netlify](https://www.netlify.com/), with a handful on [Vercel](https://vercel.com/), while many of our supporting services are either outsourced or run on [Google Cloud Functions](https://cloud.google.com/functions/?hl=en). 
 
