@@ -24,4 +24,4 @@ We take a serverless-first approach to hosting, with the majority of our applica
 
 Our web applications are built and hosted on [Netlify](https://www.netlify.com/), with a handful on [Vercel](https://vercel.com/), while many of our supporting services are either outsourced or run on [Google Cloud Functions](https://cloud.google.com/functions/?hl=en). 
 
-We are in the process of moving all of our infrastructure management to [Terraform](https://github.com/oaknational/Cloud-Config). 
+We are in the process of moving all of our infrastructure management to [Terraform](https://www.terraform.io/). 
