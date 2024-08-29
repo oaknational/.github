@@ -17,3 +17,11 @@ We also openly licence our code where it is possible to do so.
 ### Oak Web Application
 
 Our main public-facing application is the open source [Oak Web Application](https://github.com/oaknational/Oak-Web-Application), built in [Next.js](https://nextjs.org/), [React](https://react.dev/), [Styled-Components](https://styled-components.com/) and using the [Oak React components library](https://github.com/oaknational/oak-components).
+
+## Our approach to our technical architecture
+
+We take a serverless-first approach to hosting, with the majority of our applications and services running on dedicated Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service (IaaS) provider platforms. 
+
+Our web applications are built and hosted on [Netlify](https://www.netlify.com/), with a handful on [Vercel](https://vercel.com/), while many of our supporting services are either outsourced or run on [Google Cloud Functions](https://cloud.google.com/functions/?hl=en). 
+
+We are in the process of moving all of our infrastructure management to [Terraform](https://www.terraform.io/). 
